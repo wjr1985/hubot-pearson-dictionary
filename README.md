@@ -1,3 +1,7 @@
+# No longer being maintained
+
+I'm unsure how to get an API key anymore (developer.pearson.com no longer resolves), so I won't be maintaining this anymore. Thanks for using it!
+
 # hubot-pearson-dictionary
 
 A Hubot script that uses Pearson's Dictionary API to define words. Requires an API key from [http://developer.pearson.com/content-apis/get-started](http://developer.pearson.com/content-apis/get-started).
